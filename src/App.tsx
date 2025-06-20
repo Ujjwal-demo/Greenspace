@@ -628,7 +628,7 @@ function App() {
               <h3 className="text-xl font-bold mb-2">Call Us</h3>
               <p className="text-slate-300 mb-4">24/7 mission support</p>
               <a href="+91-9117203884" className="text-blue-400 hover:text-blue-300 transition-colors">
-                +1 (555) ORBITAL
+                +91-9117203884 ORBITAL
               </a>
             </div>
 
@@ -702,7 +702,7 @@ function App() {
           </div>
           
           <div className="border-t border-slate-800 mt-8 pt-8 text-center text-sm text-slate-400">
-            © 2025 Greenspace Orbital. All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Greenspace Orbital( Initiative by SYNCHUBB INNOVATIONS PVT.LTD). All rights reserved. <br>| Privacy Policy | Terms of Service</br>
           </div>
         </div>
       </footer>
