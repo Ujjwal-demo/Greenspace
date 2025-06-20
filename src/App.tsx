@@ -548,17 +548,17 @@ function App() {
               <div className="flex items-center space-x-6">
                 <div className="text-center group">
                   <Users className="h-8 w-8 text-teal-400 mx-auto mb-2 group-hover:scale-110 transition-transform" />
-                  <div className="text-2xl font-bold">50+</div>
+                  <div className="text-2xl font-bold">5+</div>
                   <div className="text-sm text-slate-300">Expert Team</div>
                 </div>
                 <div className="text-center group">
                   <Globe className="h-8 w-8 text-blue-400 mx-auto mb-2 group-hover:scale-110 transition-transform" />
-                  <div className="text-2xl font-bold">12</div>
-                  <div className="text-sm text-slate-300">Countries</div>
+                  <div className="text-2xl font-bold">1</div>
+                  <div className="text-sm text-slate-300">Country</div>
                 </div>
                 <div className="text-center group">
                   <Satellite className="h-8 w-8 text-purple-400 mx-auto mb-2 group-hover:scale-110 transition-transform" />
-                  <div className="text-2xl font-bold">8</div>
+                  <div className="text-2xl font-bold">NA</div>
                   <div className="text-sm text-slate-300">Active Missions</div>
                 </div>
               </div>
@@ -592,7 +592,7 @@ function App() {
                     </div>
                     <div>
                       <div className="font-semibold">Aarushi Gupta</div>
-                      <div className="text-sm text-slate-300">Head of Research</div>
+                      <div className="text-sm text-slate-300">Head of Research and operations</div>
                     </div>
                   </div>
                 </div>
