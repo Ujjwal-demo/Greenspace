@@ -574,7 +574,7 @@ function App() {
                     </div>
                     <div>
                       <div className="font-semibold">Ujjawal kumar</div>
-                      <div className="text-sm text-slate-300">CEO & Founder</div>
+                      <div className="text-sm text-slate-300">Mechanical Engineer</div>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4 group">
@@ -583,7 +583,7 @@ function App() {
                     </div>
                     <div>
                       <div className="font-semibold">Divyanhu Ranjan</div>
-                      <div className="text-sm text-slate-300">CTO</div>
+                      <div className="text-sm text-slate-300">Computer Science Engineer</div>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4 group">
@@ -592,7 +592,7 @@ function App() {
                     </div>
                     <div>
                       <div className="font-semibold">Aarushi Gupta</div>
-                      <div className="text-sm text-slate-300">Head of Research and operations</div>
+                      <div className="text-sm text-slate-300">Mechanical Engineer</div>
                     </div>
                   </div>
                 </div>
