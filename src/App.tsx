@@ -388,7 +388,7 @@ function App() {
                     <div className="text-sm text-slate-300">Success Rate</div>
                   </div>
                   <div className="group">
-                    <div className="text-3xl font-bold text-blue-400 mb-2 group-hover:scale-110 transition-transform">15+</div>
+                    <div className="text-3xl font-bold text-blue-400 mb-2 group-hover:scale-110 transition-transform">NA</div>
                     <div className="text-sm text-slate-300">Patents Filed</div>
                   </div>
                   <div className="group">
@@ -397,7 +397,7 @@ function App() {
                   </div>
                   <div className="group">
                     <div className="text-3xl font-bold text-orange-400 mb-2 group-hover:scale-110 transition-transform">500+</div>
-                    <div className="text-sm text-slate-300">Objects Removed</div>
+                    <div className="text-sm text-slate-300">Objects Identified</div>
                   </div>
                 </div>
               </div>
@@ -493,14 +493,14 @@ function App() {
               <div className="group">
                 <div className="text-3xl font-bold text-blue-400 mb-2 group-hover:scale-110 transition-transform">
                   <Award className="h-8 w-8 mx-auto mb-2" />
-                  50+
+                  1
                 </div>
-                <div className="text-sm text-slate-300">Global Partners</div>
+                <div className="text-sm text-slate-300">Suuport Partner</div>
               </div>
               <div className="group">
                 <div className="text-3xl font-bold text-purple-400 mb-2 group-hover:scale-110 transition-transform">
                   <Rocket className="h-8 w-8 mx-auto mb-2" />
-                  12
+                  2
                 </div>
                 <div className="text-sm text-slate-300">Missions Planned</div>
               </div>
@@ -573,7 +573,7 @@ function App() {
                       <Users className="h-6 w-6 text-teal-400" />
                     </div>
                     <div>
-                      <div className="font-semibold">Dr. Sarah Chen</div>
+                      <div className="font-semibold">Ujjawal kumar</div>
                       <div className="text-sm text-slate-300">CEO & Founder</div>
                     </div>
                   </div>
@@ -582,7 +582,7 @@ function App() {
                       <Zap className="h-6 w-6 text-blue-400" />
                     </div>
                     <div>
-                      <div className="font-semibold">Marcus Rodriguez</div>
+                      <div className="font-semibold">Divyanhu Ranjan</div>
                       <div className="text-sm text-slate-300">CTO</div>
                     </div>
                   </div>
@@ -591,7 +591,7 @@ function App() {
                       <Shield className="h-6 w-6 text-purple-400" />
                     </div>
                     <div>
-                      <div className="font-semibold">Dr. Yuki Tanaka</div>
+                      <div className="font-semibold">Aarushi Gupta</div>
                       <div className="text-sm text-slate-300">Head of Research</div>
                     </div>
                   </div>
@@ -627,7 +627,7 @@ function App() {
               <Phone className="h-12 w-12 text-blue-400 mx-auto mb-4" />
               <h3 className="text-xl font-bold mb-2">Call Us</h3>
               <p className="text-slate-300 mb-4">24/7 mission support</p>
-              <a href="tel:+1-555-ORBITAL" className="text-blue-400 hover:text-blue-300 transition-colors">
+              <a href="+91-9117203884" className="text-blue-400 hover:text-blue-300 transition-colors">
                 +1 (555) ORBITAL
               </a>
             </div>
@@ -637,8 +637,8 @@ function App() {
               <h3 className="text-xl font-bold mb-2">Visit Us</h3>
               <p className="text-slate-300 mb-4">Mission Control Center</p>
               <p className="text-purple-400">
-                Houston, TX<br />
-                Cape Canaveral, FL
+                TT004<br />
+                VIT,VELLORE
               </p>
             </div>
           </div>
