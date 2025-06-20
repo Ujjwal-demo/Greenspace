@@ -148,7 +148,7 @@ function App() {
               <Rocket className="h-4 w-4 mr-2" />
               Upcoming Mission
             </div>
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Mission Vajra</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Mission Kartvya</h2>
             <p className="text-xl text-slate-300 max-w-3xl mx-auto">
               Our first orbital debris collection mission, launching in 2027
             </p>
@@ -159,7 +159,7 @@ function App() {
               <div className="bg-slate-900/50 backdrop-blur-sm border border-slate-700 rounded-2xl p-8">
                 <h3 className="text-2xl font-bold mb-4 text-teal-400">Mission Overview</h3>
                 <p className="text-slate-300 mb-6 leading-relaxed">
-                  Vajra represents our inaugural prototype mission to demonstrate 
+                  Kartvya 1.0 represents our inaugural prototype mission to demonstrate 
                   autonomous space debris collection capabilities. This groundbreaking 
                   mission will validate our core technologies in the harsh environment of space.
                 </p>
