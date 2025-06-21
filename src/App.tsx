@@ -702,7 +702,7 @@ function App() {
           </div>
           
           <div className="border-t border-slate-800 mt-8 pt-8 text-center text-sm text-slate-400">
-            © 2025 Greenspace Orbital( Initiative by SYNCHUBB INNOVATIONS PVT.LTD ). All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Greenspace Orbital( INITIATIVE BY SYNCHUBB INNOVATIONS PVT.LTD ). All rights reserved. | Privacy Policy | Terms of Service
           </div>
         </div>
       </footer>
