@@ -535,7 +535,7 @@ function App() {
                 Pioneering Sustainable Space
               </h2>
               <p className="text-lg text-slate-300 mb-6 leading-relaxed">
-                Founded by aerospace engineers and environmental scientists, 
+                Founded by Mechanical engineers and Space enthusiasts, 
                 Greenspace Orbital combines cutting-edge technology with a 
                 commitment to preserving space for future generations.
               </p>
@@ -549,7 +549,7 @@ function App() {
                 <div className="text-center group">
                   <Users className="h-8 w-8 text-teal-400 mx-auto mb-2 group-hover:scale-110 transition-transform" />
                   <div className="text-2xl font-bold">5+</div>
-                  <div className="text-sm text-slate-300">Expert Team</div>
+                  <div className="text-sm text-slate-300">Team</div>
                 </div>
                 <div className="text-center group">
                   <Globe className="h-8 w-8 text-blue-400 mx-auto mb-2 group-hover:scale-110 transition-transform" />
@@ -619,7 +619,7 @@ function App() {
               <h3 className="text-xl font-bold mb-2">Email Us</h3>
               <p className="text-slate-300 mb-4">Get in touch with our team</p>
               <a href="mailto:contact@greenspaceorbital.com" className="text-teal-400 hover:text-teal-300 transition-colors">
-                contact@greenspaceorbital.com
+                admin@synchubb.in
               </a>
             </div>
 
@@ -702,7 +702,7 @@ function App() {
           </div>
           
           <div className="border-t border-slate-800 mt-8 pt-8 text-center text-sm text-slate-400">
-            © 2025 Greenspace Orbital( INITIATIVE BY SYNCHUBB INNOVATIONS PVT.LTD ). All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Greenspace Orbital ( Project under SYNCHUBB INNOVATIONS PVT.LTD ). All rights reserved. | Privacy Policy | Terms of Service
           </div>
         </div>
       </footer>
