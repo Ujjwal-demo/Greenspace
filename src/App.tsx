@@ -591,7 +591,7 @@ function App() {
                       <Shield className="h-6 w-6 text-purple-400" />
                     </div>
                     <div>
-                      <div className="font-semibold">Aarushi Gupta</div>
+                      <div className="font-semibold">Dristi Sengupta</div>
                       <div className="text-sm text-slate-300">Mechanical Engineer</div>
                     </div>
                   </div>
