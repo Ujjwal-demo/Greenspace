@@ -594,6 +594,10 @@ function App() {
                       <div className="font-semibold">Dristi Sengupta</div>
                       <div className="text-sm text-slate-300">Mechanical Engineer</div>
                     </div>
+                    <div>
+                      <div className="font-semibold">Omunnithan</div>
+                      <div className="text-sm text-slate-300">Mechanical Engineer</div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -702,7 +706,7 @@ function App() {
           </div>
           
           <div className="border-t border-slate-800 mt-8 pt-8 text-center text-sm text-slate-400">
-            © 2025 Greenspace Orbital ( Project under SYNCHUBB INNOVATIONS PVT.LTD ). All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Greenspace Orbital ( PROJECT UNDER SYNCHUBB INNOVATIONS PVT.LTD ). All rights reserved. | Privacy Policy | Terms of Service
           </div>
         </div>
       </footer>
